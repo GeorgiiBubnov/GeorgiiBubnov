@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Георгий! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&size=29&duration=4500&pause=2500&color=3A0EF7&background=FFFFFF00&random=false&width=435&lines=QA+Engineer+in+progress" alt="Typing SVG" /></a>
 
 <!--
 **GeorgiiBubnov/GeorgiiBubnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
