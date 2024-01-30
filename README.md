@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я Георгий! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&size=27&duration=4500&pause=2500&color=3A0EF7&background=FFFFFF00center=true&random=false&width=435&lines=QA+Engineer+in+progress" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&size=27&duration=4500&pause=2500&color=3A0EF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=QA+Engineer+in+progress" alt="Typing SVG" /></a>
 
 <!--
 **GeorgiiBubnov/GeorgiiBubnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
