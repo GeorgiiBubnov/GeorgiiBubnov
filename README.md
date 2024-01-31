@@ -3,7 +3,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&size=27&duration=4500&pause=2500&color=3A0EF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=QA+Engineer+in+progress" alt="Typing SVG" /></a></p>
 
 <h2>Connect with me:</h2>
-<p><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/red" /></p>[georgii.bubnov.spb@gmail.com]
+<p><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/red" /[georgii.bubnov.spb@gmail.com]></p>
 
 <!--
 **GeorgiiBubnov/GeorgiiBubnov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
