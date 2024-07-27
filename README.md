@@ -2,10 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace&size=27&duration=4500&pause=2500&color=3A0EF7&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=QA+Engineer+in+progress" alt="Typing SVG" /></a></p>
 
-<h2>Connect with me:</h2>
-<a href="https://t.me/GeorgiiLight" target="blank"><img height="32" width="32" src="https://cdn.simpleicons.org/telegram/blue"></a>
-
-
+### Связаться со мной можно тут:
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:georgii.bubnov.spb@gmail.com)](mailto:georgii.bubnov.spb@gmail.com)
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=blue&logo=telegram&logoColor=white)](https://t.me/GeorgiiLight)
 
 ### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgiiBubnov&show_icons=true&bg_color=00000000)
@@ -24,7 +23,6 @@
 <img width="6%" title="JUnit5" src="media/logo/JUnit5.svg">
 <img width="6%" title="GitHub" src="media/logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="media/logo/Jenkins.svg">
-<img width="6%" title="Telegram" src="media/logo/Telegram.svg">
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
 
